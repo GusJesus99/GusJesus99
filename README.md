@@ -16,6 +16,7 @@ Tenho 27 anos e sou de Guarulhos-SP, cursando o 5º semestre de **Análise e Des
 <a href="https://github.com/GusJesus99">
 <img loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GusJesus99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GusJesus99&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
 </div>
 
 ### :small_blue_diamond: Skills
