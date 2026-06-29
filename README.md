@@ -1,6 +1,6 @@
 # :wolf: Olá, que bom ver você por aqui!
 
-### :small_blue_diamond: Sobre mim <img align="right" width="130" alt="cat" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5lbjg2NjJtbmRmOHUweGRqN3gxY2ZqZ3cwNGo3YTY1dDFueDh2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIU0t3EaFcpPPjPV5N/giphy.gif" />
+### :small_blue_diamond: Sobre mim <img align="right" width="250" alt="cat" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5lbjg2NjJtbmRmOHUweGRqN3gxY2ZqZ3cwNGo3YTY1dDFueDh2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIU0t3EaFcpPPjPV5N/giphy.gif"/>
 Sou o **Gustavo Silva de Jesus** :rocket: <br/>
 Tenho 27 anos e sou de Guarulhos-SP, cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** pelo **Centro Universitário ENIAC** :mortar_board:. Atuo na área de TI com experiência em suporte e automação de processos, e atualmente focado em construir minha carreira como **Consultor / Desenvolvedor ServiceNow**.
 
